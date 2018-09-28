@@ -55,3 +55,9 @@ li .col-6{
 	width: auto;
 	margin: 0;
 }
+
+.profile-pic{
+	 width: 64px;
+	 height:64px;
+	 border-radius: 50%
+}
